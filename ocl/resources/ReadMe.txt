@@ -1,1 +1,0 @@
-PSFs have moved to releng/org.eclipse.ocl.releng/psfs in the org.eclipse.ocl GIT repo.
